@@ -121,3 +121,4 @@ document.getElementById('time').innerHTML = hor+":"+min;
 }
 
 setInterval(time,1000);
+alert(screen.width);
