@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="Css/style.css">
+
+       <script src="Js/main.js"></script>
+
+    <script src="https://kit.fontawesome.com/9d89bb858d.js" crossorigin="anonymous"></script>
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="wrapper">
+
+      <section>
+
+      <div class="cont">
+
+       <div id="date"></div>  
+
+       <div id="time"></div>
+
+       <div id="date2" style="font-size:10px;margin-top:-5px;"></div>
+
+       <div id="city">Delhi | 14° C <i class="fa fa-refresh"></i></div>
+
+       </div>
+
+         <div class="search"><div class="text"><pre> Search with Google   <i class="fa fa-microphone"></i></pre></div></div><div class="bottom">
+
+         <button>
+
+             <img class="img1" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png" style="margin-left:16px;"/>
+
+         </button>
+
+         <button>
+
+             <img class="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-T3vhLzkSXzmfOZ0slbi1qMbd-U3_qGEpbA&usqp=CAU" style="margin-left:10px;border:solid 5px #fff;background:#fff;"/>
+
+           <button>
+
+             <img class="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_KWnZtvOCS077ZvKPwuI_qVWFNC-slbJXnIBYZ3MMF5GfG6ZwNR6jKVs&s=10" style="margin-left:18px;border:solid 5px #fff;background:#fff;"/>
+
+         </button>
+
+         <button>
+
+             <img class="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1imlr_DTSy_k00aas3ASWgP8Ro_l99i8qg&usqp=CAU" style="margin-left:10px;"/>
+
+             <button>
+
+             <img class="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYm6DYDmIPyyjF60sqfI6tK5fIDXF6zhAgw&usqp=CAU" style="margin-left:18px;"/>
+
+         </button>
+
+         </div>
+
+         <div class="dot4"></div>
+
+       <div class="dot3"></div>
+
+      </section>
+
+      
+
+        <section>        
+
+        <button><img src="https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png"/></button>          
+
+        <button><i class="fa fa-music" id="i" style="background-color:red;border-color:red;"></i></button>
+
+        <button><i class="fas fa-map-marker-alt" id="i" style="background-color:royalblue;"></i></button>
+
+       <button>
+
+       <img src="https://iconape.com/wp-content/files/hk/93955/png/sololearn-2.png" style="background:#fff;height:50px;width:50px;border:solid 5px #fff;border-radius:50%;"/></button>
+
+       <button>        
+
+       <img src="https://www.citypng.com/public/uploads/preview/-11597283055r5ynokf2kb.png"/>  
+
+       </button > <div class="dot"></div>
+
+       <div class="dot1"></div>         
+
+        </section>
+
+    
+
+      </div>
+
+    </div>
+
+  </body>
+
+</html>
+
